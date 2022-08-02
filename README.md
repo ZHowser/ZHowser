@@ -8,4 +8,4 @@ My name is Zach and I'm a self-taught data analyst.
 - Teaching myself SQL, Tableau, and Python.
 
 ### ⚡️ Currently ⚡️ 
-- Refining SQL skills
+- Refining Python data analysis skills
